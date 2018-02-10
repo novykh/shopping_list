@@ -1,0 +1,31 @@
+[
+  {
+    "image_url": "https://static.pexels.com/photos/39803/pexels-photo-39803.jpeg",
+    "name": "Apple",
+    "description": "One apple everyday makes the doctor go away. Rebranded by Steve Jobs himself.",
+    "id": 1,
+    "price": 25
+  },
+  {
+    "image_url": "https://static.pexels.com/photos/52533/orange-fruit-vitamins-healthy-eating-52533.jpeg",
+    "name": "Orange",
+    "description": "The orange is the fruit of the citrus species and it's orange from whatever point of view you look at it.",
+    "id": 2,
+    "price": 30
+  },
+  {
+    "image_url": "https://static.pexels.com/photos/38283/bananas-fruit-carbohydrates-sweet-38283.jpeg",
+    "name": "Banana",
+    "description": "The banana is an edible fruit – botanically a berry – produced by several kinds of large herbaceous flowering plants in the genus Musa. Yes... Musa.",
+    "id": 3,
+    "price": 15
+  },
+  {
+    "image_url": "https://static.pexels.com/photos/286948/pexels-photo-286948.jpeg",
+    "name": "Papaya",
+    "description": "Papaya plants grow in three sexes: male, female, hermaphrodite. Pick yours now!",
+    "id": 4,
+    "price": 50,
+    "offer_type": "3FOR2"
+  }
+]
